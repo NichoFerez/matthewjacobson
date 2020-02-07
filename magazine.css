@@ -1,0 +1,72 @@
+img{
+	transform: rotate(90deg);
+	height:700px;
+	width:1000px;
+	position:relative;
+	margin-left:300px;
+	margin-top:200px;
+	z-index:1;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	position:absolute;
+	color:white;
+margin-top:150px;
+margin-left:540px;
+font-size:80px;
+	z-index:2;
+}
+
+h2{
+font-family: 'Lora', serif;
+margin-top:340px;
+margin-left:700px;
+	position:absolute;
+	color:orange;
+	z-index:3;
+}
+
+.text1{
+	font-family:'Montserrat', sans-serif;
+	padding-left:600px;
+	padding-right:500px;
+	margin-top:365px;
+	margin-left:-80px;
+	margin-right:80px;
+	position:absolute;
+	font-size:10pt;
+	color:white;
+	z-index:4;
+}
+
+.text2{
+font-family:'Montserrat', sans-serif;
+position:absolute;
+z-index:5;
+color:white;
+font-size:10pt;
+margin-top:900px;
+margin-left:714px;
+}
+
+.text3{
+	font-family:'Montserrat', sans-serif;
+	z-index:6;
+	position:absolute;
+color:white;
+font-size:8pt;
+margin-top:920px;
+margin-left:680px;
+}
+
+.text4{
+	font-family:'Montserrat', sans-serif;
+	z-index:7;
+	position: absolute;
+	color:white;
+font-size:8pt;
+margin-top:935px;
+margin-left:580px;
+
+}
